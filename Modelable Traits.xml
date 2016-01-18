@@ -1,0 +1,20 @@
+<!---
+LearningRate: 0.1 is low, 0.3 is high
+-->
+<TRAITS>
+	<TRAIT>
+		<ID>10001</ID>
+		<NAME>FightsStrangeFolks</NAME>
+		<LEARNINGRATE>0.2</LEARNINGRATE>
+	</TRAIT>
+	<TRAIT>
+		<ID>10002</ID>
+		<NAME>MinesAsteroids</NAME>
+		<LEARNINGRATE>0.2</LEARNINGRATE>
+	</TRAIT>
+	<TRAIT>
+		<ID>10003</ID>
+		<NAME>DestroysAsteroids</NAME>
+		<LEARNINGRATE>0.2</LEARNINGRATE>
+	</TRAIT>
+</TRAITS>
