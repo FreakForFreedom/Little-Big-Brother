@@ -4,6 +4,7 @@ Initial version of the Big Brother A.I. I developed for my master's thesis.
 This is not the complete project from my thesis, just the A.I. part. It works by quantifying certain aspects of the player's playstyle which are read from an external xml file and then getting the current game world's state (with all "watchable" objects) and comparing it against preset 'laws' or 'story elements'. These have specific criteria which must be met so they can be applied to the game world.
 
 This is the update process:
+
 ![screenshot](http://notenoughsleep.eu/files/screenshots/ma/Überprüfungsprozess.png)
 
 And some screens (which won't really tell you anything other then it works for me ;) )
