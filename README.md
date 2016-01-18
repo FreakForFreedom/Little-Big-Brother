@@ -3,7 +3,7 @@ Initial version of the Big Brother A.I. I developed for my master's thesis.
 
 This is not the complete project from my thesis, just the A.I. part. It works by quantifying certain aspects of the player's playstyle which are read from an external xml file and then getting the current game world's state (with all "watchable" objects) and comparing it against preset 'laws' or 'story elements'. These have specific criteria which must be met so they can be applied to the game world.
 
-It is inspired by Valve's director A.I. for Left4Dead.
+It is heavily inspired by Valve's director A.I. for Left4Dead.
 
 And of course... there is a lot of room for improvement. But it works and I am proud I managed to get it working this far.
 If my little game Proles (for which I have developped this A.I.) should ever be in a playable state, then I will update this repo to the newest version.
