@@ -1,11 +1,9 @@
 # Little-Big-Brother
 Initial version of the Big Brother A.I. I developed for my master's thesis.
 
-![screenshot](http://notenoughsleep.eu/files/screenshots/ma/Big Brother cycle.png)
-![screenshot](http://notenoughsleep.eu/files/screenshots/ma/mainstory.png)
-![screenshot](http://notenoughsleep.eu/files/screenshots/ma/story-bausteine.png)
+This is not the complete project from my thesis, just the A.I. part. It works by quantifying 
+
 ![screenshot](http://notenoughsleep.eu/files/screenshots/ma/Überprüfungsprozess.png)
-![screenshot](http://notenoughsleep.eu/files/screenshots/ma/Überprüfungszyklus.png)
 
 ![screenshot](http://notenoughsleep.eu/files/screenshots/ma/server1.png)
 ![screenshot](http://notenoughsleep.eu/files/screenshots/ma/server2.png)
